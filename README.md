@@ -2,7 +2,7 @@
 
 ## About Omnifood
 
-## [Click me!, to watch omnifood]([https://github.com/user-attachments/assets/25246076-6036-4ecc-a7fd-bc0f0634aef1](https://avi-codesmith-omnifood.netlify.app/))
+## [Click me!, to watch omnifood] ([https://github.com/user-attachments/assets/25246076-6036-4ecc-a7fd-bc0f0634aef1](https://avi-codesmith-omnifood.netlify.app/))
 
 ![Screenshot from 2024-12-18 23-55-51](https://github.com/user-attachments/assets/ac8af702-e8e3-42ce-84c6-05556f517995)
 
