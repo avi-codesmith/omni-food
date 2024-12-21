@@ -2,7 +2,7 @@
 
 ## About Omnifood
 
-## [Click to watch the clone](https://avi-codesmith-omnifood.netlify.app/)
+## [Click to watch the Omnifood](https://avi-codesmith-omnifood.netlify.app/)
 
 ![Screenshot from 2024-12-18 23-55-51](https://github.com/user-attachments/assets/ac8af702-e8e3-42ce-84c6-05556f517995)
 
