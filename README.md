@@ -4,7 +4,7 @@
 
 ## [Click me!, to watch omnifood]([https://omnifood.netlify.app/)](https://avi-codesmith-omnifood.netlify.app/)
 
-![Screenshot from 2024-12-18 23-55-51](https://github.com/user-attachments/assets/25246076-6036-4ecc-a7fd-bc0f0634aef1)
+![Screenshot from 2024-12-18 23-55-51] (https://github.com/user-attachments/assets/25246076-6036-4ecc-a7fd-bc0f0634aef1)
 
 
 
